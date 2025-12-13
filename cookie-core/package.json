@@ -1,0 +1,13 @@
+{
+  "name": "rs-reverse-cookie-core",
+  "version": "1.0.0",
+  "description": "瑞数Cookie生成核心模块（从rs-reverse提取）",
+  "main": "example-usage.js",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "log4js": "^6.9.1"
+  },
+  "keywords": ["rs-reverse", "cookie", "encryption"],
+  "author": "extracted from rs-reverse",
+  "license": "BSD-3-Clause"
+}
